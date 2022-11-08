@@ -11,6 +11,7 @@
 		2C73D0542919E3A70078AAB6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C73D0532919E3A70078AAB6 /* ContentView.swift */; };
 		2C73D0562919E3A80078AAB6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C73D0552919E3A80078AAB6 /* Assets.xcassets */; };
 		2C73D0592919E3A80078AAB6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C73D0582919E3A80078AAB6 /* Preview Assets.xcassets */; };
+		2C73D0602919E6D00078AAB6 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C73D05F2919E6D00078AAB6 /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2C73D0532919E3A70078AAB6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2C73D0552919E3A80078AAB6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2C73D0582919E3A80078AAB6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2C73D05F2919E6D00078AAB6 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				2C73D0532919E3A70078AAB6 /* ContentView.swift */,
 				2C73D0552919E3A80078AAB6 /* Assets.xcassets */,
 				2C73D0572919E3A80078AAB6 /* Preview Content */,
+				2C73D05F2919E6D00078AAB6 /* SettingsView.swift */,
 			);
 			path = NavigationViewPlayeground;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C73D0602919E6D00078AAB6 /* SettingsView.swift in Sources */,
 				2C73D0542919E3A70078AAB6 /* ContentView.swift in Sources */,
 				2C73D0522919E3A70078AAB6 /* NavigationViewPlayegroundApp.swift in Sources */,
 			);
